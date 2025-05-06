@@ -41,10 +41,10 @@ public class ResponsiveEdgeParticle : MonoBehaviour
 #endif
 }
 ```
-![Hierarchy](../Images/Hierarchy.png)  
-![UIParticleCanvas](../Images/UIParticleCanvas.png)  
-![UIParticle](../Images/UIParticle.png)  
-![UIParticleSystem1](../Images/UIParticleSystem1.png)  
-![UIParticleSystem2](../Images/UIParticleSystem2.png)  
-![UIParticleSystem3](../Images/UIParticleSystem3.png)  
-![UIParticleSystem4](../Images/UIParticleSystem4.png)  
+![Hierarchy](../Images/UIParticleSystem/Hierarchy.png)  
+![UIParticleCanvas](../Images/UIParticleSystem/UIParticleCanvas.png)  
+![UIParticle](../Images/UIParticleSystem/UIParticle.png)  
+![UIParticleSystem1](../Images/UIParticleSystem/UIParticleSystem1.png)  
+![UIParticleSystem2](../Images/UIParticleSystem/UIParticleSystem2.png)  
+![UIParticleSystem3](../Images/UIParticleSystem/UIParticleSystem3.png)  
+![UIParticleSystem4](../Images/UIParticleSystem/UIParticleSystem4.png)  
